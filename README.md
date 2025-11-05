@@ -28,7 +28,7 @@
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-FF6F00?style=for-the-badge&logoColor=white)
 
 ## Favourite Projects
-**CollaborIDE** [Work-In-Progress] A web, code snippet editor for easy collaboration. Using Java, Spring Boot, Microservice architecture, React, PostgreSQL & Docker Containers. 
+**[CollaborIDE](https://github.com/R-Oby/CollaborIDE)** [Work-In-Progress] A web, code snippet editor for easy collaboration. Using Java, Spring Boot, Microservice architecture, React, PostgreSQL & Docker Containers. 
 
 **[SurveyMaker](https://github.com/SurveyChefs/surveymaker)** - Full stack web app for creating surveys with conditions, and analytics. Made with Next.ts, React and Vercel
 
